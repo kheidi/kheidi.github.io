@@ -2,9 +2,9 @@
 title: "Real world whole foot ground clearance"
 collection: talks
 type: "Talk"
-permalink: /talks/DW_2022_3DClearance
+permalink: /talks/6/13/22-DW_2022_3DClearance
 venue: "Dynamic Walking 2022"
-date: 06/13/22
+date: 6/13/22
 location: "Madison, WI"
 ---
 
