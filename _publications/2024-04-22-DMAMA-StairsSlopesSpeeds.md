@@ -5,7 +5,6 @@ permalink: /publication/2024-04-22-DMAMA-StairsSlopesSpeeds
 date: 2024-04-22
 venue: 'Journal of Biomechanical Engineering'
 paperurl: 'https://doi.org/10.1115/1.4065269'
-citation: 'Fehr, K. H., Kent, J. A., Major, M. J., &amp; Adamczyk, P. G. (2024). Changes in Dynamic Mean Ankle Moment Arm in Unimpaired Walking Across Speeds, Ramps, and Stairs. Journal of Biomechanical Engineering, 146(094501). https://doi.org/10.1115/1.4065269'
 ---
 
 <a href='https://doi.org/10.1115/1.4065269'>Download paper here</a>

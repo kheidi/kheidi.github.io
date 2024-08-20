@@ -5,7 +5,6 @@ permalink: /publication/2024-02-24-IMU-Reconstruction
 date: 2024-02-24
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/24/5/1480'
-citation: 'Wang, Y., Fehr, K. H., &amp; Adamczyk, P. G. (2024). Impact-Aware Foot Motion Reconstruction and Ramp/Stair Detection Using One Foot-Mounted Inertial Measurement Unit. Sensors, 24(5), Article 5. https://doi.org/10.3390/s24051480'
 ---
 
 <a href='https://www.mdpi.com/1424-8220/24/5/1480'>Download paper here</a>
